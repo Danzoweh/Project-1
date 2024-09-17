@@ -1,2 +1,2 @@
 print ("i love world")
-- bisa loh 
+print ("nama saya danzoweh")
